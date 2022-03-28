@@ -1,4 +1,4 @@
-# IntersectionAndUnionOfAllJust
+# Intersection and Union of All Justifications
 
 We provide an approach to compute the core/intersection of all justifications. Please find example code in the file: Black-box/main/java/justifications/Example.java.
 
