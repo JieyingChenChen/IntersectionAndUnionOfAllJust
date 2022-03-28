@@ -1,0 +1,1618 @@
+i:<http://purl.obolibrary.org/obo/FAO_0000001>[= <http://purl.obolibrary.org/obo/FAO_0000001>
+i:<http://purl.obolibrary.org/obo/FAO_0000002>[= <http://purl.obolibrary.org/obo/FAO_0000002>
+o:<http://purl.obolibrary.org/obo/FAO_0000002> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000002> [=  <http://purl.obolibrary.org/obo/FAO_0000002>
++:<http://purl.obolibrary.org/obo/FAO_0000002> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000003>[= <http://purl.obolibrary.org/obo/FAO_0000003>
+o:<http://purl.obolibrary.org/obo/FAO_0000003> <http://purl.obolibrary.org/obo/FAO_0000052>
+-:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000003>
++:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000012>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000003>
++:<http://purl.obolibrary.org/obo/FAO_0000003> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000012>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000012>[= <http://purl.obolibrary.org/obo/FAO_0000012>
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000012> <http://purl.obolibrary.org/obo/FAO_0000007>
+-:<http://purl.obolibrary.org/obo/FAO_0000012> [=  <http://purl.obolibrary.org/obo/FAO_0000012>
++:<http://purl.obolibrary.org/obo/FAO_0000012> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000007> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000012> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
++:<http://purl.obolibrary.org/obo/FAO_0000012> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000004>[= <http://purl.obolibrary.org/obo/FAO_0000004>
+o:<http://purl.obolibrary.org/obo/FAO_0000004> <http://purl.obolibrary.org/obo/FAO_0000014>
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000004>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000004> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000008>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000004>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000008>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000014> <http://purl.obolibrary.org/obo/FAO_0000052>
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000008>[= <http://purl.obolibrary.org/obo/FAO_0000008>
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000008> <http://purl.obolibrary.org/obo/FAO_0000007>
+-:<http://purl.obolibrary.org/obo/FAO_0000008> [=  <http://purl.obolibrary.org/obo/FAO_0000008>
++:<http://purl.obolibrary.org/obo/FAO_0000008> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000007> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000008> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
++:<http://purl.obolibrary.org/obo/FAO_0000008> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000006>[= <http://purl.obolibrary.org/obo/FAO_0000006>
+o:<http://purl.obolibrary.org/obo/FAO_0000006> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000012>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000006> [=  <http://purl.obolibrary.org/obo/FAO_0000006>
++:<http://purl.obolibrary.org/obo/FAO_0000006> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000012>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000007>[= <http://purl.obolibrary.org/obo/FAO_0000007>
+o:<http://purl.obolibrary.org/obo/FAO_0000007> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000007> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
++:<http://purl.obolibrary.org/obo/FAO_0000007> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000008>[= <http://purl.obolibrary.org/obo/FAO_0000008>
+o:<http://purl.obolibrary.org/obo/FAO_0000008> <http://purl.obolibrary.org/obo/FAO_0000007>
+-:<http://purl.obolibrary.org/obo/FAO_0000008> [=  <http://purl.obolibrary.org/obo/FAO_0000008>
++:<http://purl.obolibrary.org/obo/FAO_0000008> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000007> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000008> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
++:<http://purl.obolibrary.org/obo/FAO_0000008> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000009>[= <http://purl.obolibrary.org/obo/FAO_0000009>
+o:<http://purl.obolibrary.org/obo/FAO_0000009> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000012>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000009> [=  <http://purl.obolibrary.org/obo/FAO_0000009>
++:<http://purl.obolibrary.org/obo/FAO_0000009> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000012>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000010>[= <http://purl.obolibrary.org/obo/FAO_0000010>
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000010> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000010> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000011>[= <http://purl.obolibrary.org/obo/FAO_0000011>
+o:<http://purl.obolibrary.org/obo/FAO_0000011> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000011> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
++:<http://purl.obolibrary.org/obo/FAO_0000011> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000012>[= <http://purl.obolibrary.org/obo/FAO_0000012>
+o:<http://purl.obolibrary.org/obo/FAO_0000012> <http://purl.obolibrary.org/obo/FAO_0000007>
+-:<http://purl.obolibrary.org/obo/FAO_0000012> [=  <http://purl.obolibrary.org/obo/FAO_0000012>
++:<http://purl.obolibrary.org/obo/FAO_0000012> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000007> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000012> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
++:<http://purl.obolibrary.org/obo/FAO_0000012> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000013>[= <http://purl.obolibrary.org/obo/FAO_0000013>
+o:<http://purl.obolibrary.org/obo/FAO_0000013> <http://purl.obolibrary.org/obo/FAO_0000020>
+-:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000013>
++:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000020>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000013> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000004>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000013>
++:<http://purl.obolibrary.org/obo/FAO_0000013> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000004>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000020> <http://purl.obolibrary.org/obo/FAO_0000017>
+-:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000020>
++:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000004>[= <http://purl.obolibrary.org/obo/FAO_0000004>
+o:<http://purl.obolibrary.org/obo/FAO_0000017> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
++:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000013> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000004> <http://purl.obolibrary.org/obo/FAO_0000014>
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000004>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000004> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000008>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000004>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000008>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000014> <http://purl.obolibrary.org/obo/FAO_0000052>
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000004> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000014>[= <http://purl.obolibrary.org/obo/FAO_0000014>
+o:<http://purl.obolibrary.org/obo/FAO_0000014> <http://purl.obolibrary.org/obo/FAO_0000052>
+-:<http://purl.obolibrary.org/obo/FAO_0000014> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
++:<http://purl.obolibrary.org/obo/FAO_0000014> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000014> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000014> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000014> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000014> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000015>[= <http://purl.obolibrary.org/obo/FAO_0000015>
+o:<http://purl.obolibrary.org/obo/FAO_0000015> <http://purl.obolibrary.org/obo/FAO_0000014>
+-:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000015>
++:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000014> <http://purl.obolibrary.org/obo/FAO_0000052>
+-:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
++:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000016>[= <http://purl.obolibrary.org/obo/FAO_0000016>
+o:<http://purl.obolibrary.org/obo/FAO_0000016> <http://purl.obolibrary.org/obo/FAO_0000020>
+-:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000016>
++:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000020>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000016> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000015>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000016>
++:<http://purl.obolibrary.org/obo/FAO_0000016> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000015>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000020> <http://purl.obolibrary.org/obo/FAO_0000017>
+-:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000020>
++:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000015>[= <http://purl.obolibrary.org/obo/FAO_0000015>
+o:<http://purl.obolibrary.org/obo/FAO_0000017> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
++:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000016> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000015> <http://purl.obolibrary.org/obo/FAO_0000014>
+-:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000015>
++:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000014> <http://purl.obolibrary.org/obo/FAO_0000052>
+-:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000014>
++:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000015> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000017>[= <http://purl.obolibrary.org/obo/FAO_0000017>
+o:<http://purl.obolibrary.org/obo/FAO_0000017> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000017> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
++:<http://purl.obolibrary.org/obo/FAO_0000017> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000017> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000017> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000017> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000017> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000018>[= <http://purl.obolibrary.org/obo/FAO_0000018>
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000018> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000018> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000019>[= <http://purl.obolibrary.org/obo/FAO_0000019>
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000019> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000019> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000019> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000019> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000020>[= <http://purl.obolibrary.org/obo/FAO_0000020>
+o:<http://purl.obolibrary.org/obo/FAO_0000020> <http://purl.obolibrary.org/obo/FAO_0000017>
+-:<http://purl.obolibrary.org/obo/FAO_0000020> [=  <http://purl.obolibrary.org/obo/FAO_0000020>
++:<http://purl.obolibrary.org/obo/FAO_0000020> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000017> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000020> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
++:<http://purl.obolibrary.org/obo/FAO_0000020> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000020> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000020> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000020> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000020> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000021>[= <http://purl.obolibrary.org/obo/FAO_0000021>
+o:<http://purl.obolibrary.org/obo/FAO_0000021> <http://purl.obolibrary.org/obo/FAO_0000017>
+-:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000021>
++:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000021> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000003>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000021>
++:<http://purl.obolibrary.org/obo/FAO_0000021> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000003>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000017> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
++:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000003>[= <http://purl.obolibrary.org/obo/FAO_0000003>
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000021> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000003> <http://purl.obolibrary.org/obo/FAO_0000052>
+-:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000003>
++:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000012>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000003>
++:<http://purl.obolibrary.org/obo/FAO_0000003> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000012>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000003> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000022>[= <http://purl.obolibrary.org/obo/FAO_0000022>
+o:<http://purl.obolibrary.org/obo/FAO_0000022> <http://purl.obolibrary.org/obo/FAO_0000021>
+-:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000022>
++:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000021>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000021> <http://purl.obolibrary.org/obo/FAO_0000017>
+-:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000021>
++:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000021> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000003>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000021>
++:<http://purl.obolibrary.org/obo/FAO_0000022> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000003>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000017> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
++:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000022> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000023>[= <http://purl.obolibrary.org/obo/FAO_0000023>
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000023> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000023> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000023> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000023> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000023> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000023> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000024>[= <http://purl.obolibrary.org/obo/FAO_0000024>
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000024> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000024> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000024> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000024> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000024> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000024> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000024> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000024> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000025>[= <http://purl.obolibrary.org/obo/FAO_0000025>
+o:<http://purl.obolibrary.org/obo/FAO_0000025> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
++:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000025> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000026>[= <http://purl.obolibrary.org/obo/FAO_0000026>
+o:<http://purl.obolibrary.org/obo/FAO_0000026> <http://purl.obolibrary.org/obo/FAO_0000021>
+-:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000026>
++:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000021>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000021> <http://purl.obolibrary.org/obo/FAO_0000017>
+-:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000021>
++:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000021> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000003>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000021>
++:<http://purl.obolibrary.org/obo/FAO_0000026> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000003>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0000017> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
++:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000026> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000027>[= <http://purl.obolibrary.org/obo/FAO_0000027>
+o:<http://purl.obolibrary.org/obo/FAO_0000027> <http://purl.obolibrary.org/obo/FAO_0000025>
+-:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000027>
++:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000025> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
++:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000027> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000028>[= <http://purl.obolibrary.org/obo/FAO_0000028>
+o:<http://purl.obolibrary.org/obo/FAO_0000028> <http://purl.obolibrary.org/obo/FAO_0000025>
+-:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000028>
++:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000025> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
++:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000028> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000029>[= <http://purl.obolibrary.org/obo/FAO_0000029>
+o:<http://purl.obolibrary.org/obo/FAO_0000029> <http://purl.obolibrary.org/obo/FAO_0000025>
+-:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000029>
++:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000029> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000029>
++:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000025> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
++:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000029> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000030>[= <http://purl.obolibrary.org/obo/FAO_0000030>
+o:<http://purl.obolibrary.org/obo/FAO_0000030> <http://purl.obolibrary.org/obo/FAO_0000029>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000030>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000029>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000030> <http://purl.obolibrary.org/obo/FAO_0000042>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000030>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000042>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000029> <http://purl.obolibrary.org/obo/FAO_0000025>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000029>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000029> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000029>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000042> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000042>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000025> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000030> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000031>[= <http://purl.obolibrary.org/obo/FAO_0000031>
+o:<http://purl.obolibrary.org/obo/FAO_0000031> <http://purl.obolibrary.org/obo/FAO_0000029>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000031>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000029>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000031> <http://purl.obolibrary.org/obo/FAO_0000041>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000031>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000041>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000029> <http://purl.obolibrary.org/obo/FAO_0000025>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000029>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000029> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000029>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000041> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000041>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000025> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000025>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000031> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000032>[= <http://purl.obolibrary.org/obo/FAO_0000032>
+o:<http://purl.obolibrary.org/obo/FAO_0000032> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000032> [=  <http://purl.obolibrary.org/obo/FAO_0000032>
++:<http://purl.obolibrary.org/obo/FAO_0000032> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000032> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000032> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000033>[= <http://purl.obolibrary.org/obo/FAO_0000033>
+o:<http://purl.obolibrary.org/obo/FAO_0000033> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000033>
++:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000033> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000034>[= <http://purl.obolibrary.org/obo/FAO_0000034>
+o:<http://purl.obolibrary.org/obo/FAO_0000034> <http://purl.obolibrary.org/obo/FAO_0000002>
+-:<http://purl.obolibrary.org/obo/FAO_0000034> [=  <http://purl.obolibrary.org/obo/FAO_0000034>
++:<http://purl.obolibrary.org/obo/FAO_0000034> [=  <http://purl.obolibrary.org/obo/FAO_0000002>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000002> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000034> [=  <http://purl.obolibrary.org/obo/FAO_0000002>
++:<http://purl.obolibrary.org/obo/FAO_0000034> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000035>[= <http://purl.obolibrary.org/obo/FAO_0000035>
+o:<http://purl.obolibrary.org/obo/FAO_0000035> <http://purl.obolibrary.org/obo/FAO_0000033>
+-:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000035>
++:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000033>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000035> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000035>
++:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000033> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000033>
++:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000035> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000036>[= <http://purl.obolibrary.org/obo/FAO_0000036>
+o:<http://purl.obolibrary.org/obo/FAO_0000036> <http://purl.obolibrary.org/obo/FAO_0000035>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000036>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000035>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000036> <http://purl.obolibrary.org/obo/FAO_0000042>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000036>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000042>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000035> <http://purl.obolibrary.org/obo/FAO_0000033>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000035>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000033>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000035> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000035>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000042> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000042>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000033> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000033>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000036> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000037>[= <http://purl.obolibrary.org/obo/FAO_0000037>
+o:<http://purl.obolibrary.org/obo/FAO_0000037> <http://purl.obolibrary.org/obo/FAO_0000035>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000037>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000035>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000037> <http://purl.obolibrary.org/obo/FAO_0000041>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000037>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000041>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000035> <http://purl.obolibrary.org/obo/FAO_0000033>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000035>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000033>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000035> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000035>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000041> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000041>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000033> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000033>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000037> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000038>[= <http://purl.obolibrary.org/obo/FAO_0000038>
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000038> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000039>[= <http://purl.obolibrary.org/obo/FAO_0000039>
+o:<http://purl.obolibrary.org/obo/FAO_0000039> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000039> [=  <http://purl.obolibrary.org/obo/FAO_0000039>
++:<http://purl.obolibrary.org/obo/FAO_0000039> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000039> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000039> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000039> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000039> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000039> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000039> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000040>[= <http://purl.obolibrary.org/obo/FAO_0000040>
+o:<http://purl.obolibrary.org/obo/FAO_0000040> <http://purl.obolibrary.org/obo/FAO_0000017>
+-:<http://purl.obolibrary.org/obo/FAO_0000040> [=  <http://purl.obolibrary.org/obo/FAO_0000040>
++:<http://purl.obolibrary.org/obo/FAO_0000040> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000017> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000040> [=  <http://purl.obolibrary.org/obo/FAO_0000017>
++:<http://purl.obolibrary.org/obo/FAO_0000040> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000040> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000040> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000040> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000040> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000041>[= <http://purl.obolibrary.org/obo/FAO_0000041>
+o:<http://purl.obolibrary.org/obo/FAO_0000041> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000041>
++:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000041> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000042>[= <http://purl.obolibrary.org/obo/FAO_0000042>
+o:<http://purl.obolibrary.org/obo/FAO_0000042> <http://purl.obolibrary.org/obo/FAO_0000038>
+-:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000042>
++:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000038> <http://purl.obolibrary.org/obo/FAO_0000024>
+-:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000038>
++:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000024> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000024>
++:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000042> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000043>[= <http://purl.obolibrary.org/obo/FAO_0000043>
+o:<http://purl.obolibrary.org/obo/FAO_0000043> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#develops_from> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000043> [=  <http://purl.obolibrary.org/obo/FAO_0000043>
++:<http://purl.obolibrary.org/obo/FAO_0000043> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#develops_from> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001001>[= <http://purl.obolibrary.org/obo/FAO_0001001>
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001001> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001001> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000044>[= <http://purl.obolibrary.org/obo/FAO_0000044>
+o:<http://purl.obolibrary.org/obo/FAO_0000044> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000044> [=  <http://purl.obolibrary.org/obo/FAO_0000044>
++:<http://purl.obolibrary.org/obo/FAO_0000044> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000043>[= <http://purl.obolibrary.org/obo/FAO_0000043>
+o:<http://purl.obolibrary.org/obo/FAO_0000043> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#develops_from> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000043> [=  <http://purl.obolibrary.org/obo/FAO_0000043>
++:<http://purl.obolibrary.org/obo/FAO_0000043> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#develops_from> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000045>[= <http://purl.obolibrary.org/obo/FAO_0000045>
+o:<http://purl.obolibrary.org/obo/FAO_0000045> <http://purl.obolibrary.org/obo/FAO_0000044>
+-:<http://purl.obolibrary.org/obo/FAO_0000045> [=  <http://purl.obolibrary.org/obo/FAO_0000045>
++:<http://purl.obolibrary.org/obo/FAO_0000045> [=  <http://purl.obolibrary.org/obo/FAO_0000044>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000044> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000045> [=  <http://purl.obolibrary.org/obo/FAO_0000044>
++:<http://purl.obolibrary.org/obo/FAO_0000045> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000046>[= <http://purl.obolibrary.org/obo/FAO_0000046>
+o:<http://purl.obolibrary.org/obo/FAO_0000046> <http://purl.obolibrary.org/obo/FAO_0000044>
+-:<http://purl.obolibrary.org/obo/FAO_0000046> [=  <http://purl.obolibrary.org/obo/FAO_0000046>
++:<http://purl.obolibrary.org/obo/FAO_0000046> [=  <http://purl.obolibrary.org/obo/FAO_0000044>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000044> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000046> [=  <http://purl.obolibrary.org/obo/FAO_0000044>
++:<http://purl.obolibrary.org/obo/FAO_0000046> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000047>[= <http://purl.obolibrary.org/obo/FAO_0000047>
+o:<http://purl.obolibrary.org/obo/FAO_0000047> <http://purl.obolibrary.org/obo/FAO_0000008>
+-:<http://purl.obolibrary.org/obo/FAO_0000047> [=  <http://purl.obolibrary.org/obo/FAO_0000047>
++:<http://purl.obolibrary.org/obo/FAO_0000047> [=  <http://purl.obolibrary.org/obo/FAO_0000008>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000008> <http://purl.obolibrary.org/obo/FAO_0000007>
+-:<http://purl.obolibrary.org/obo/FAO_0000047> [=  <http://purl.obolibrary.org/obo/FAO_0000008>
++:<http://purl.obolibrary.org/obo/FAO_0000047> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000007> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000047> [=  <http://purl.obolibrary.org/obo/FAO_0000007>
++:<http://purl.obolibrary.org/obo/FAO_0000047> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000048>[= <http://purl.obolibrary.org/obo/FAO_0000048>
+o:<http://purl.obolibrary.org/obo/FAO_0000048> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#develops_from> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000048> [=  <http://purl.obolibrary.org/obo/FAO_0000048>
++:<http://purl.obolibrary.org/obo/FAO_0000048> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#develops_from> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000049>[= <http://purl.obolibrary.org/obo/FAO_0000049>
+o:<http://purl.obolibrary.org/obo/FAO_0000049> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000049> [=  <http://purl.obolibrary.org/obo/FAO_0000049>
++:<http://purl.obolibrary.org/obo/FAO_0000049> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000050>[= <http://purl.obolibrary.org/obo/FAO_0000050>
+o:<http://purl.obolibrary.org/obo/FAO_0000050> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000050> [=  <http://purl.obolibrary.org/obo/FAO_0000050>
++:<http://purl.obolibrary.org/obo/FAO_0000050> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000043>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000051>[= <http://purl.obolibrary.org/obo/FAO_0000051>
+o:<http://purl.obolibrary.org/obo/FAO_0000051> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000051> [=  <http://purl.obolibrary.org/obo/FAO_0000051>
++:<http://purl.obolibrary.org/obo/FAO_0000051> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001001>[= <http://purl.obolibrary.org/obo/FAO_0001001>
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001001> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001001> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000052>[= <http://purl.obolibrary.org/obo/FAO_0000052>
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000052> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000052> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000052> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000052> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000053>[= <http://purl.obolibrary.org/obo/FAO_0000053>
+o:<http://purl.obolibrary.org/obo/FAO_0000053> <http://purl.obolibrary.org/obo/FAO_0000052>
+-:<http://purl.obolibrary.org/obo/FAO_0000053> [=  <http://purl.obolibrary.org/obo/FAO_0000053>
++:<http://purl.obolibrary.org/obo/FAO_0000053> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000052> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000053> [=  <http://purl.obolibrary.org/obo/FAO_0000052>
++:<http://purl.obolibrary.org/obo/FAO_0000053> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000053> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000053> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000054>[= <http://purl.obolibrary.org/obo/FAO_0000054>
+o:<http://purl.obolibrary.org/obo/FAO_0000054> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000054> [=  <http://purl.obolibrary.org/obo/FAO_0000054>
++:<http://purl.obolibrary.org/obo/FAO_0000054> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000054> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000054> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000054> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000054> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000054> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000054> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000055>[= <http://purl.obolibrary.org/obo/FAO_0000055>
+o:<http://purl.obolibrary.org/obo/FAO_0000055> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000055> [=  <http://purl.obolibrary.org/obo/FAO_0000055>
++:<http://purl.obolibrary.org/obo/FAO_0000055> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000055> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000055> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000055> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000055> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000055> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000055> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000056>[= <http://purl.obolibrary.org/obo/FAO_0000056>
+o:<http://purl.obolibrary.org/obo/FAO_0000056> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000056> [=  <http://purl.obolibrary.org/obo/FAO_0000056>
++:<http://purl.obolibrary.org/obo/FAO_0000056> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000056> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000056> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000057>[= <http://purl.obolibrary.org/obo/FAO_0000057>
+o:<http://purl.obolibrary.org/obo/FAO_0000057> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000057> [=  <http://purl.obolibrary.org/obo/FAO_0000057>
++:<http://purl.obolibrary.org/obo/FAO_0000057> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000057> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000057> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000058>[= <http://purl.obolibrary.org/obo/FAO_0000058>
+o:<http://purl.obolibrary.org/obo/FAO_0000058> <http://purl.obolibrary.org/obo/FAO_0000010>
+-:<http://purl.obolibrary.org/obo/FAO_0000058> [=  <http://purl.obolibrary.org/obo/FAO_0000058>
++:<http://purl.obolibrary.org/obo/FAO_0000058> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000010> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000058> [=  <http://purl.obolibrary.org/obo/FAO_0000010>
++:<http://purl.obolibrary.org/obo/FAO_0000058> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000059>[= <http://purl.obolibrary.org/obo/FAO_0000059>
+o:<http://purl.obolibrary.org/obo/FAO_0000059> <http://purl.obolibrary.org/obo/FAO_0001022>
+-:<http://purl.obolibrary.org/obo/FAO_0000059> [=  <http://purl.obolibrary.org/obo/FAO_0000059>
++:<http://purl.obolibrary.org/obo/FAO_0000059> [=  <http://purl.obolibrary.org/obo/FAO_0001022>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001022> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000059> [=  <http://purl.obolibrary.org/obo/FAO_0001022>
++:<http://purl.obolibrary.org/obo/FAO_0000059> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000059> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000059> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000060>[= <http://purl.obolibrary.org/obo/FAO_0000060>
+o:<http://purl.obolibrary.org/obo/FAO_0000060> <http://purl.obolibrary.org/obo/FAO_0001009>
+-:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0000060>
++:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000061>[= <http://purl.obolibrary.org/obo/FAO_0000061>
+o:<http://purl.obolibrary.org/obo/FAO_0000061> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000060>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000061> [=  <http://purl.obolibrary.org/obo/FAO_0000061>
++:<http://purl.obolibrary.org/obo/FAO_0000061> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000060>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000060>[= <http://purl.obolibrary.org/obo/FAO_0000060>
+o:<http://purl.obolibrary.org/obo/FAO_0000060> <http://purl.obolibrary.org/obo/FAO_0001009>
+-:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0000060>
++:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0000060> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000062>[= <http://purl.obolibrary.org/obo/FAO_0000062>
+o:<http://purl.obolibrary.org/obo/FAO_0000062> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000060>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000062> [=  <http://purl.obolibrary.org/obo/FAO_0000062>
++:<http://purl.obolibrary.org/obo/FAO_0000062> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000060>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000063>[= <http://purl.obolibrary.org/obo/FAO_0000063>
+o:<http://purl.obolibrary.org/obo/FAO_0000063> <http://purl.obolibrary.org/obo/FAO_0000032>
+-:<http://purl.obolibrary.org/obo/FAO_0000063> [=  <http://purl.obolibrary.org/obo/FAO_0000063>
++:<http://purl.obolibrary.org/obo/FAO_0000063> [=  <http://purl.obolibrary.org/obo/FAO_0000032>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000032> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000063> [=  <http://purl.obolibrary.org/obo/FAO_0000032>
++:<http://purl.obolibrary.org/obo/FAO_0000063> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000063> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000063> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000064>[= <http://purl.obolibrary.org/obo/FAO_0000064>
+o:<http://purl.obolibrary.org/obo/FAO_0000064> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000064> [=  <http://purl.obolibrary.org/obo/FAO_0000064>
++:<http://purl.obolibrary.org/obo/FAO_0000064> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000064> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000064> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000064> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000064> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000064> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000064> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000065>[= <http://purl.obolibrary.org/obo/FAO_0000065>
+o:<http://purl.obolibrary.org/obo/FAO_0000065> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000065> [=  <http://purl.obolibrary.org/obo/FAO_0000065>
++:<http://purl.obolibrary.org/obo/FAO_0000065> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000066>[= <http://purl.obolibrary.org/obo/FAO_0000066>
+o:<http://purl.obolibrary.org/obo/FAO_0000066> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0000066> [=  <http://purl.obolibrary.org/obo/FAO_0000066>
++:<http://purl.obolibrary.org/obo/FAO_0000066> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0000066> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0000066> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0000067>[= <http://purl.obolibrary.org/obo/FAO_0000067>
+o:<http://purl.obolibrary.org/obo/FAO_0000067> <http://purl.obolibrary.org/obo/FAO_0000023>
+-:<http://purl.obolibrary.org/obo/FAO_0000067> [=  <http://purl.obolibrary.org/obo/FAO_0000067>
++:<http://purl.obolibrary.org/obo/FAO_0000067> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000023> <http://purl.obolibrary.org/obo/FAO_0000019>
+-:<http://purl.obolibrary.org/obo/FAO_0000067> [=  <http://purl.obolibrary.org/obo/FAO_0000023>
++:<http://purl.obolibrary.org/obo/FAO_0000067> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000019> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0000067> [=  <http://purl.obolibrary.org/obo/FAO_0000019>
++:<http://purl.obolibrary.org/obo/FAO_0000067> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000067> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0000067> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001001>[= <http://purl.obolibrary.org/obo/FAO_0001001>
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001001> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001001> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001002>[= <http://purl.obolibrary.org/obo/FAO_0001002>
+o:<http://purl.obolibrary.org/obo/FAO_0001002> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001002> [=  <http://purl.obolibrary.org/obo/FAO_0001002>
++:<http://purl.obolibrary.org/obo/FAO_0001002> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001003>[= <http://purl.obolibrary.org/obo/FAO_0001003>
+o:<http://purl.obolibrary.org/obo/FAO_0001003> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001003> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0000011>[= <http://purl.obolibrary.org/obo/FAO_0000011>
+o:<http://purl.obolibrary.org/obo/FAO_0000011> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0000011> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
++:<http://purl.obolibrary.org/obo/FAO_0000011> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001004>[= <http://purl.obolibrary.org/obo/FAO_0001004>
+o:<http://purl.obolibrary.org/obo/FAO_0001004> <http://purl.obolibrary.org/obo/FAO_0001003>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001004> <http://purl.obolibrary.org/obo/FAO_0001009>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001005>[= <http://purl.obolibrary.org/obo/FAO_0001005>
+o:<http://purl.obolibrary.org/obo/FAO_0001005> <http://purl.obolibrary.org/obo/FAO_0000011>
+-:<http://purl.obolibrary.org/obo/FAO_0001005> [=  <http://purl.obolibrary.org/obo/FAO_0001005>
++:<http://purl.obolibrary.org/obo/FAO_0001005> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000011> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001005> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
++:<http://purl.obolibrary.org/obo/FAO_0001005> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001006>[= <http://purl.obolibrary.org/obo/FAO_0001006>
+o:<http://purl.obolibrary.org/obo/FAO_0001006> <http://purl.obolibrary.org/obo/FAO_0000011>
+-:<http://purl.obolibrary.org/obo/FAO_0001006> [=  <http://purl.obolibrary.org/obo/FAO_0001006>
++:<http://purl.obolibrary.org/obo/FAO_0001006> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000011> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001006> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
++:<http://purl.obolibrary.org/obo/FAO_0001006> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001007>[= <http://purl.obolibrary.org/obo/FAO_0001007>
+o:<http://purl.obolibrary.org/obo/FAO_0001007> <http://purl.obolibrary.org/obo/FAO_0000011>
+-:<http://purl.obolibrary.org/obo/FAO_0001007> [=  <http://purl.obolibrary.org/obo/FAO_0001007>
++:<http://purl.obolibrary.org/obo/FAO_0001007> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000011> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001007> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
++:<http://purl.obolibrary.org/obo/FAO_0001007> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001008>[= <http://purl.obolibrary.org/obo/FAO_0001008>
+o:<http://purl.obolibrary.org/obo/FAO_0001008> <http://purl.obolibrary.org/obo/FAO_0000011>
+-:<http://purl.obolibrary.org/obo/FAO_0001008> [=  <http://purl.obolibrary.org/obo/FAO_0001008>
++:<http://purl.obolibrary.org/obo/FAO_0001008> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000011> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001008> [=  <http://purl.obolibrary.org/obo/FAO_0000011>
++:<http://purl.obolibrary.org/obo/FAO_0001008> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001009>[= <http://purl.obolibrary.org/obo/FAO_0001009>
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001009> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0001009> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001009> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001009> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001010>[= <http://purl.obolibrary.org/obo/FAO_0001010>
+o:<http://purl.obolibrary.org/obo/FAO_0001010> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001010> [=  <http://purl.obolibrary.org/obo/FAO_0001010>
++:<http://purl.obolibrary.org/obo/FAO_0001010> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001010> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001010> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001011>[= <http://purl.obolibrary.org/obo/FAO_0001011>
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001011> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0001011> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001012>[= <http://purl.obolibrary.org/obo/FAO_0001012>
+o:<http://purl.obolibrary.org/obo/FAO_0001012> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001012> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
++:<http://purl.obolibrary.org/obo/FAO_0001012> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001012> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001003>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001012> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
++:<http://purl.obolibrary.org/obo/FAO_0001012> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001003>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001012> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0001012> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001003>[= <http://purl.obolibrary.org/obo/FAO_0001003>
+o:<http://purl.obolibrary.org/obo/FAO_0001003> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001003> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001003> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001013>[= <http://purl.obolibrary.org/obo/FAO_0001013>
+o:<http://purl.obolibrary.org/obo/FAO_0001013> <http://purl.obolibrary.org/obo/FAO_0001004>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001013>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001004> <http://purl.obolibrary.org/obo/FAO_0001003>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001004> <http://purl.obolibrary.org/obo/FAO_0001009>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001014>[= <http://purl.obolibrary.org/obo/FAO_0001014>
+o:<http://purl.obolibrary.org/obo/FAO_0001014> <http://purl.obolibrary.org/obo/FAO_0001003>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001014>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001014> <http://purl.obolibrary.org/obo/FAO_0001010>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001014>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001010> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001010>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001015>[= <http://purl.obolibrary.org/obo/FAO_0001015>
+o:<http://purl.obolibrary.org/obo/FAO_0001015> <http://purl.obolibrary.org/obo/FAO_0001012>
+-:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001015>
++:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001015> <http://purl.obolibrary.org/obo/FAO_0001016>
+-:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001015>
++:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001015> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001004>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001015>
++:<http://purl.obolibrary.org/obo/FAO_0001015> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001004>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001012> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
++:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001012> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001003>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
++:<http://purl.obolibrary.org/obo/FAO_0001015> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001003>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001016> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
++:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001016> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001009>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
++:<http://purl.obolibrary.org/obo/FAO_0001015> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001009>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001004>[= <http://purl.obolibrary.org/obo/FAO_0001004>
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001015> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0001015> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001009>[= <http://purl.obolibrary.org/obo/FAO_0001009>
+o:<http://purl.obolibrary.org/obo/FAO_0001004> <http://purl.obolibrary.org/obo/FAO_0001003>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001004> <http://purl.obolibrary.org/obo/FAO_0001009>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001004> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001009> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0001009> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001009> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001009> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001016>[= <http://purl.obolibrary.org/obo/FAO_0001016>
+o:<http://purl.obolibrary.org/obo/FAO_0001016> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001016> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
++:<http://purl.obolibrary.org/obo/FAO_0001016> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001016> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001009>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001016> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
++:<http://purl.obolibrary.org/obo/FAO_0001016> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001009>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001016> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0001016> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001017>[= <http://purl.obolibrary.org/obo/FAO_0001017>
+o:<http://purl.obolibrary.org/obo/FAO_0001017> <http://purl.obolibrary.org/obo/FAO_0001015>
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001017>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001015>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001017> <http://purl.obolibrary.org/obo/FAO_0001019>
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001017>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001019>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001017> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001013>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001017>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001013>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001015> <http://purl.obolibrary.org/obo/FAO_0001012>
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001015>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001015> <http://purl.obolibrary.org/obo/FAO_0001016>
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001015>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001015> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001004>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001015>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001004>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001019> <http://purl.obolibrary.org/obo/FAO_0001016>
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001019>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001019> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001018>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001019>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001018>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001013>[= <http://purl.obolibrary.org/obo/FAO_0001013>
+o:<http://purl.obolibrary.org/obo/FAO_0001012> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001012> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001003>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001003>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001016> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001016> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001009>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001009>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001018>[= <http://purl.obolibrary.org/obo/FAO_0001018>
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001017> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0001017> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001013> <http://purl.obolibrary.org/obo/FAO_0001004>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001013>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001004> <http://purl.obolibrary.org/obo/FAO_0001003>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001004> <http://purl.obolibrary.org/obo/FAO_0001009>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001004>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001013> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001018> <http://purl.obolibrary.org/obo/FAO_0001009>
+-:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001018>
++:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001018>[= <http://purl.obolibrary.org/obo/FAO_0001018>
+o:<http://purl.obolibrary.org/obo/FAO_0001018> <http://purl.obolibrary.org/obo/FAO_0001009>
+-:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001018>
++:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001009> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001009>
++:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001018> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001019>[= <http://purl.obolibrary.org/obo/FAO_0001019>
+o:<http://purl.obolibrary.org/obo/FAO_0001019> <http://purl.obolibrary.org/obo/FAO_0001016>
+-:<http://purl.obolibrary.org/obo/FAO_0001019> [=  <http://purl.obolibrary.org/obo/FAO_0001019>
++:<http://purl.obolibrary.org/obo/FAO_0001019> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001019> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001018>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001019> [=  <http://purl.obolibrary.org/obo/FAO_0001019>
++:<http://purl.obolibrary.org/obo/FAO_0001019> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001018>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001016> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001019> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
++:<http://purl.obolibrary.org/obo/FAO_0001019> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001016> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001009>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001019> [=  <http://purl.obolibrary.org/obo/FAO_0001016>
++:<http://purl.obolibrary.org/obo/FAO_0001019> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001009>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001019> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0001019> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001020>[= <http://purl.obolibrary.org/obo/FAO_0001020>
+o:<http://purl.obolibrary.org/obo/FAO_0001020> <http://purl.obolibrary.org/obo/FAO_0001012>
+-:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001020>
++:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001020> <http://purl.obolibrary.org/obo/FAO_0001021>
+-:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001020>
++:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001021>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001020> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001014>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001020>
++:<http://purl.obolibrary.org/obo/FAO_0001020> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001014>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001012> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
++:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001012> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001003>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001012>
++:<http://purl.obolibrary.org/obo/FAO_0001020> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001003>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001021> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001021>
++:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001021> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001010>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001021>
++:<http://purl.obolibrary.org/obo/FAO_0001020> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001010>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001014>[= <http://purl.obolibrary.org/obo/FAO_0001014>
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001020> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0001020> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001010>[= <http://purl.obolibrary.org/obo/FAO_0001010>
+o:<http://purl.obolibrary.org/obo/FAO_0001014> <http://purl.obolibrary.org/obo/FAO_0001003>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001014>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001014> <http://purl.obolibrary.org/obo/FAO_0001010>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001014>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001010>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001003> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001003>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0000011>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001010> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001010>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001014> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001010> <http://purl.obolibrary.org/obo/FAO_0001001>
+-:<http://purl.obolibrary.org/obo/FAO_0001010> [=  <http://purl.obolibrary.org/obo/FAO_0001010>
++:<http://purl.obolibrary.org/obo/FAO_0001010> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001001> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001010> [=  <http://purl.obolibrary.org/obo/FAO_0001001>
++:<http://purl.obolibrary.org/obo/FAO_0001010> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001021>[= <http://purl.obolibrary.org/obo/FAO_0001021>
+o:<http://purl.obolibrary.org/obo/FAO_0001021> <http://purl.obolibrary.org/obo/FAO_0001011>
+-:<http://purl.obolibrary.org/obo/FAO_0001021> [=  <http://purl.obolibrary.org/obo/FAO_0001021>
++:<http://purl.obolibrary.org/obo/FAO_0001021> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001021> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001010>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001021> [=  <http://purl.obolibrary.org/obo/FAO_0001021>
++:<http://purl.obolibrary.org/obo/FAO_0001021> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001010>)+
+
+o:<http://purl.obolibrary.org/obo/FAO_0001011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+-:<http://purl.obolibrary.org/obo/FAO_0001021> [=  <http://purl.obolibrary.org/obo/FAO_0001011>
++:<http://purl.obolibrary.org/obo/FAO_0001021> [=  ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/46f2c9ab-7706-47a7-a80c-719122ab2a5b_fao.obo#part_of> <http://purl.obolibrary.org/obo/FAO_0001001>)+
+
+i:<http://purl.obolibrary.org/obo/FAO_0001022>[= <http://purl.obolibrary.org/obo/FAO_0001022>
+o:<http://purl.obolibrary.org/obo/FAO_0001022> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0001022> [=  <http://purl.obolibrary.org/obo/FAO_0001022>
++:<http://purl.obolibrary.org/obo/FAO_0001022> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001022> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0001022> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
+i:<http://purl.obolibrary.org/obo/FAO_0001023>[= <http://purl.obolibrary.org/obo/FAO_0001023>
+o:<http://purl.obolibrary.org/obo/FAO_0001023> <http://purl.obolibrary.org/obo/FAO_0001022>
+-:<http://purl.obolibrary.org/obo/FAO_0001023> [=  <http://purl.obolibrary.org/obo/FAO_0001023>
++:<http://purl.obolibrary.org/obo/FAO_0001023> [=  <http://purl.obolibrary.org/obo/FAO_0001022>
+
+o:<http://purl.obolibrary.org/obo/FAO_0001022> <http://purl.obolibrary.org/obo/FAO_0000018>
+-:<http://purl.obolibrary.org/obo/FAO_0001023> [=  <http://purl.obolibrary.org/obo/FAO_0001022>
++:<http://purl.obolibrary.org/obo/FAO_0001023> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
+
+o:<http://purl.obolibrary.org/obo/FAO_0000018> <http://purl.obolibrary.org/obo/FAO_0000001>
+-:<http://purl.obolibrary.org/obo/FAO_0001023> [=  <http://purl.obolibrary.org/obo/FAO_0000018>
++:<http://purl.obolibrary.org/obo/FAO_0001023> [=  <http://purl.obolibrary.org/obo/FAO_0000001>
+
