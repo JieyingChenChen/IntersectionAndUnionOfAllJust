@@ -8,4 +8,4 @@ Additionally, we provide two approaches to compute the union of all justificatio
 
 Reference
 - Jieying Chen, Yue Ma, Rafael Peñaloza and Hui Yang: Union and Intersection of all Justifications. In Proceedings of the 19th European Semantic Web Conference (ESWC2022). To appear.
-- Jieying Chen, Yue Ma, Rafael Peñaloza, Hui Yang: Union and Intersection of all Justifications (Extended Abstract). In Proceedings of the 34th International Workshop on Description Logics (DL 2021), CEUR Workshop Proceedings. CEUR-WS.org, September 2021. [PDF]
+- Jieying Chen, Yue Ma, Rafael Peñaloza, Hui Yang: Union and Intersection of all Justifications (Extended Abstract). In Proceedings of the 34th International Workshop on Description Logics (DL 2021), CEUR Workshop Proceedings. CEUR-WS.org, September 2021. 
